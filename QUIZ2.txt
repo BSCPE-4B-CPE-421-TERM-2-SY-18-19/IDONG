@@ -1,0 +1,12 @@
+Dretshel Anne Idong
+BSCPE-4B
+
+Quiz #2F
+
+
+-The charger used to supply the raspberry pi reached the require 
+ voltage in order for the raspberry pi to operate.
+ 
+-The raspberry pi is fully functional because there is an OS installed
+ in it already. The cables and wires are also fully functional,
+ therefore there is a continuous flow of electricity.

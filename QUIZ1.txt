@@ -1,0 +1,26 @@
+Dretshel Anne Idong
+BSCPE-4B
+
+Quiz #1F
+
+OBSERVATION:
+When we turned on the unit,
+	-the fans that are attached in the system are working well (at first)
+	-LED in the motherboard lit
+	-Monitor didn't respond
+	-After a couple of seconds, the computer turned off
+	
+	With these observations, we decided to check the connections between the
+	power supply connectors to the motherboard and other peripherals. After 
+	the series of detachment and attachments, we tried to turn the unit on 
+	again. Same thing happened.
+	
+PROBLEMS:
+	-Computer cannot turn on completely
+	-Not enough booting time to give response from other peripherals.
+	-The fuse in the power supply has blown.
+	
+SOLUTIONS:
+	-Replace power supply connectors
+	-Replace the fuse in the power supply
+	-Clean the unit.

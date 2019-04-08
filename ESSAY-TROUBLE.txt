@@ -1,0 +1,62 @@
+		Before, I were never sure of what Computer Engineering was all about. Most of people’s perception
+	about this course is that students studying this field will be good on troubleshooting computers, even
+	radios! Well, this is when I did not know that there is more to a computer engineering student than
+	troubleshooting stuffs yet. (Basically, before getting acquainted with programming languages) On my first
+	couple of years, I have encounters on people asking me to check their computer monitors, computer system 
+	units, printers and even repair their radios while some people would ask stuffs about the internet. At this
+	point of my college life, I was kind of thinking that troubleshooting subject should be offered in the earlier
+	stage of the curriculum. I have been looking forward to take Troubleshooting subject because as a student of 
+	this course, I do want to have enough knowledge and provide answers to what these people need. And I guess, 
+	it also goes the same thing with my classmates not just me, they have been looking forward on taking the 
+	subject because we thought that in this subject, there are a lot of things to learn and skills to develop.
+
+		By definition, troubleshooting is a form of problem solving, often applied to repair failed products or
+	processes on a machine or a system. It is a logical, systematic search for the source of a problem in order to
+	solve it, and make the product or process operational again. Troubleshooting is needed to identify the symptoms.
+	Determining the most likely cause is a process of elimination—eliminating potential causes of a problem. Finally,
+	troubleshooting requires confirmation that the solution restores the product or process to its working state. 
+	In general, troubleshooting is the identification or diagnosis of "trouble" in the management flow of a corporation
+	or a system caused by a failure of some kind. The problem is initially described as symptoms of malfunction, and 
+	troubleshooting is the process of determining and remedying the causes of these symptoms.
+	
+		Upon taking the subject now, I realized that I have expected too much from it. “TROUBLESHOOTING”. Reading it
+	in my COR holds a lot of promise to every student in my course who are “doing good but not pretty GREAT” in the
+	software side of this field and who are wishing to make it up to its hardware side. At first, I was very disappointed
+	upon knowing that what we are all going to do in the subject will be a plain reporting. Well, I know that it’s kind 
+	of blessing on the other hand because this subject won’t load us with heavy projects, just report the topics you are
+	assigned to and you are good to go. The reporting went great and reporters really made it sure that we get to learn
+	a lot of things about their topics. Then, there were periods- three I guess, that had no classes because of the
+	absence of instructor. Although it helped to give time to other subjects, it was still a big loss to us. (And now 
+	I feel bad, because although it really was a loss to miss these periods still I liked it. You know, nobody doesn’t 
+	like vacant periods.)
+	
+		After the transition in changing of instructors, there’s not much change done in the class, just the instructor. 
+	I commend how our new instructor adjusted for in fact he was new to this stuff, teaching. I really saw the effort on
+	how he adjusted to us given that he had big shoes to fill. There could be much pressure from the expectations of his 
+	colleagues and his students. He is also very open minded. He listens to what everyone would say and he would consider
+	everyone’s suggestions. Also, he is willing to help everyone in other stuffs. I like it that he continued the reporting 
+	where we stopped and never created another course outline. He has also given us one activity that involved raspberry pi
+	and a system unit. 
+	
+		All I can say is that the subject has helped us understand deeply the main components of the computer and somehow 
+	taught us the real essence of the subject which is “troubleshooting” -theoretically. However, for me the whole experience 
+	in the subject lacks the exposure and hands-on activities. I think that it could have been great and very helpful if we 
+	could apply what we learn theoretically through laboratory experiments. Even though we have done it once, I think it was
+	never enough. It is understandable though that the school is lacking of resources and that the subject program’s time 
+	frame was affected by the change of instructor [because the transition took too much time]. It is such a loss on us 
+	because we were not able to maximize the learnings we could have get from this subject. There could have been more to
+	what we learned at this point. Now, it would be our responsibility as the students to expand this knowledge and hone 
+	skills on troubleshooting for us to grow in this field that we chose. 
+	
+		I do thank our instructor, Engr. Perin for a great job handling this subject. He has been amazing on the craft, 
+	not bad for a first timer. He has been very patient, considerate and helpful to everyone in the class. I also admire
+	his patriotism. I admire how he appreciate our culture and how he share fractions of his knowledge on us on things that
+	could remind us of our roots. He is such an inspiration.
+		As a student, it is never really about how much topics we tackled and how far we have come in the class that could
+	describe an efficient instructor. For me, it is about how deep his/her impact to the student, how he/she has touched and
+	inspired his/her students’ lives. Because at the end of the day, those topics in the course outline can be learned 
+	in google while life lessons and values are gifts from people who come and go in your life that can never be searched
+	in the internet.
+
+
+
